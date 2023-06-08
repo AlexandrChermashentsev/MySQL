@@ -1,3 +1,4 @@
+CREATE SCHEMA sem_4_hw;
 USE sem_4_hw;
 CREATE TABLE `shops` (
 	`id` INT,
